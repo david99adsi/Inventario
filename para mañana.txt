@@ -1,0 +1,71 @@
+1. id
+2. item
+3. origen_propiedad
+4. origen_estado
+5. uso_tipoUnidad
+6. ubicacion_ciudad
+7. ubicacion_sede
+8. ce_placa
+9. ce_serie
+10. ce_tipo
+11. ce_marca
+12. ce_modelo
+13. ce_marcaProcesador
+14. ce_tipoProcesador
+15. ce_velocidadProcesador
+16. ce_memoria
+17. ce_dd
+18. ce_nombrePc
+19. ce_macAdreesEthernet
+20. ce_macAdreesWifi
+21. ce_hojaDeVida
+22. ce_sistemaOperativo
+23. usuario_cedula
+24. usuario_responsable
+25. usuario_cargo
+26. usuario_dependencia
+27. usuario_ubicacion
+28. da_fecha
+29. da_estado
+30. da_agenteDeRed
+31. ad_antivirus
+32. monitor_item
+33. monitor_placa
+34. monitor_marca
+35. monitor_modelo
+36. monitor_serie
+37. telefono_item
+38. telefono_ext
+39. telefono_modelo
+40. telefono_serie
+41. telefono_numeroPlaca
+42. oh_item
+43. oh_otros
+44. maribel_observaciones
+45. maribel_factura
+46. maribel_proveedor
+47. maribel_fechaInicio
+48. maribel_fechaFinal
+49. maribel_garantia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
